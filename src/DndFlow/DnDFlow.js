@@ -104,7 +104,7 @@ const DnDFlow = () => {
         id: getId(),
         type,
         position,
-        data: { label: `${type} node` },
+        data: { label: `${type}` },
       };
 
       //it adds the newly added node to existing nodes
