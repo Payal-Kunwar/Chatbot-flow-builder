@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Payal-Kunwar/Chatbot-flow-builder.git/static/css/main.225752e9.css",
+    "main.js": "/Payal-Kunwar/Chatbot-flow-builder.git/static/js/main.ccd0b3e7.js",
+    "static/js/453.426595cb.chunk.js": "/Payal-Kunwar/Chatbot-flow-builder.git/static/js/453.426595cb.chunk.js",
+    "index.html": "/Payal-Kunwar/Chatbot-flow-builder.git/index.html",
+    "main.225752e9.css.map": "/Payal-Kunwar/Chatbot-flow-builder.git/static/css/main.225752e9.css.map",
+    "main.ccd0b3e7.js.map": "/Payal-Kunwar/Chatbot-flow-builder.git/static/js/main.ccd0b3e7.js.map",
+    "453.426595cb.chunk.js.map": "/Payal-Kunwar/Chatbot-flow-builder.git/static/js/453.426595cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225752e9.css",
+    "static/js/main.ccd0b3e7.js"
+  ]
+}
